@@ -31,6 +31,7 @@ function Video({ url, channel, description, song, likes, messages, shares }) {
         ref={videoRef}
         allow="fullscreen"
         frameBorder="0"
+        autoPlay={true}
       />
       <VideoFooter channel={channel} description={description} song={song} />
       <VideoSidebar likes={likes} messages={messages} shares={shares} />

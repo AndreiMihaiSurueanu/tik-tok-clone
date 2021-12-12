@@ -6,12 +6,12 @@ import { getFirestore, collection, onSnapshot } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAiwPTvM5JOH3jGmMQy0osH899kzLGcdsM",
-  authDomain: "tik-tok-clone-9.firebaseapp.com",
-  projectId: "tik-tok-clone-9",
-  storageBucket: "tik-tok-clone-9.appspot.com",
-  messagingSenderId: "946275916866",
-  appId: "1:946275916866:web:a771f3014f5c8a662ae1db",
+  apiKey: "AIzaSyAsN-NRC3iArMfE0gypNuDbMyLDu5CJsr4",
+  authDomain: "clone-projects-9.firebaseapp.com",
+  projectId: "clone-projects-9",
+  storageBucket: "clone-projects-9.appspot.com",
+  messagingSenderId: "174316682985",
+  appId: "1:174316682985:web:f7da81c7bc26e0cb6dba78"
 };
 
 // Initialize Firebase
